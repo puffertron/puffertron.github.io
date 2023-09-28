@@ -1,0 +1,53 @@
+.example {
+    padding: 8px;
+    background-color: rgb(224, 241, 242);
+    border: 4px solid cadetblue;
+    border-style: hidden hidden hidden solid;
+}
+
+code {
+    color:deeppink
+}
+
+.float {
+    width: 50%;
+    float: left;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: white
+}
+
+
+.button {
+    background-color: blueviolet;
+    border: 2px dashed pink;
+    margin: ;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:visited {
+    color: white;
+}
+
+
+body {
+    background-color: ;
+}
+
+.menu {
+    background-color: black;
+}
