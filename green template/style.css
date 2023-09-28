@@ -1,0 +1,55 @@
+body{
+    background-color:darkolivegreen;
+}
+
+.main {
+    background-color: rgba(0,0,0, 0.1);
+    width: 50%;
+
+}
+
+.block {
+    margin: 40px;
+    background-color: khaki;
+    padding: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: 8px double darkslategrey;
+    outline: 15px solid oldlace;
+}
+
+.menubar > a {
+    margin-left: 20px;
+    margin-right: 20px;
+    color:darkolivegreen;
+    font-weight: bold;
+}
+
+.menubar {
+    border: 4px double darkslategray;
+    border-style: none double none double;
+}
+
+span {
+    font-style: italic;
+    font-weight: 800;
+    color: green;
+}
+
+.floating {
+    float: left;
+    width: auto;
+}
+
+.block > img {
+    float: left;
+}
+
+.menubar > span {
+    background-color: gold;
+}
+
+object {
+    height: 25px;
+    overflow: hidden;
+}
